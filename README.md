@@ -1,20 +1,18 @@
 # MotionCut-s-Python-Programming-Internship-Program-Public-Week-2
 
-
-# Word Counter README
+# Basic Word Counter README
 
 ## Description
-The Word Counter is a simple Python program that counts the number of words in a given sentence or paragraph. It takes user input and calculates the word count, displaying the result to the user. The program continues to prompt the user for input until the user decides to quit.
+The Basic Word Counter is a simple Python program implemented in a Jupyter Notebook (`Basic Word Counter.ipynb`). It counts the number of words in a given sentence or paragraph. Users are prompted to input text, and the program calculates the word count, displaying the result to the user. The program continues to prompt the user for input until the user decides to quit.
 
 ## Files
-- `word_counter.py`: This Python script contains the Word Counter program.
-- `README.md`: This README file providing information about the Word Counter program.
+- `Basic Word Counter.ipynb`: This Jupyter Notebook contains the implementation of the Basic Word Counter program.
 
 ## How to Use
-1. Ensure you have Python installed on your system.
-2. Download or clone the repository containing `word_counter.py`.
-3. Open a terminal or command prompt and navigate to the directory containing `word_counter.py`.
-4. Run the script by executing the command: `python word_counter.py`.
+1. Ensure you have Jupyter Notebook installed on your system.
+2. Download or clone the repository containing `Basic Word Counter.ipynb`.
+3. Open the Jupyter Notebook `Basic Word Counter.ipynb` using Jupyter Notebook.
+4. Execute the cells in the notebook to run the program.
 5. Follow the prompts to enter a sentence or paragraph.
 6. To exit the program, type 'q' and press Enter when prompted for input.
 
